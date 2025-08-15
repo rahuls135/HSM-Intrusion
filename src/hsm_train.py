@@ -10,8 +10,6 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import os
 from tqdm import tqdm
 
-os.makedirs('models', exist_ok=True)
-
 def evaluate_threshold(X, y, threshold):
     """
     Evaluate threshold-based classification for light sensor
