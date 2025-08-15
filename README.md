@@ -36,6 +36,10 @@ Real-time physical intrusion detection for hardware security modules using machi
    - Upload `main.py` and `model_params.py` to Pico
    - Access dashboard at `http://<PICO_IP>`
 
+## Web Dashboard
+
+![Web Dashboard](img/webpage.png)
+
 ## Detection Logic
 
 - **Light anomaly**: Sensor reading > ML threshold (box opened)
