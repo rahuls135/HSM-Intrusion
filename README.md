@@ -16,7 +16,7 @@ Real-time physical intrusion detection for hardware security modules using machi
 ## Hardware Setup
 
 ### Circuit Schematic
-![Circuit Schematic](img/schematic.png)
+![Circuit Schematic](img/fritzingschematic.png)
 
 ### Pin Connections
 - Raspberry Pi Pico 2W
