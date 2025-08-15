@@ -12,7 +12,7 @@ Real-time physical intrusion detection for hardware security modules using machi
 ## Hardware Setup
 
 - Raspberry Pi Pico 2W
-- Photocell → GP26 (ADC0) with 10kΩ pull-down
+- Photocell → GP26 (ADC0)
 - Digital tilt sensor → GP27 (PULL_DOWN) 
 - Buzzer → GP15 (PWM)
 
