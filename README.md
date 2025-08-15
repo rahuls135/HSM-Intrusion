@@ -9,8 +9,16 @@ Real-time physical intrusion detection for hardware security modules using machi
 - **Web Dashboard**: Live monitoring with remote kill switch via WiFi
 - **Real-time Alerts**: Buzzer and LED activation on anomaly detection
 
+## System Architecture
+
+![Block Diagram](img/blockdiagram.png)
+
 ## Hardware Setup
 
+### Circuit Schematic
+![Circuit Schematic](img/schematic.png)
+
+### Pin Connections
 - Raspberry Pi Pico 2W
 - Photocell → GP26 (ADC0)
 - Digital tilt sensor → GP27 (PULL_DOWN) 
